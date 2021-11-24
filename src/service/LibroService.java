@@ -5,8 +5,6 @@ import entidad.Editorial;
 import entidad.Libro;
 import java.util.List;
 import java.util.Scanner;
-
-import javax.persistence.EntityManager;
 import DAO.LibroJpaController;
 import DAO.exceptions.NonexistentEntityException;
 import DAO.exceptions.PreexistingEntityException;
